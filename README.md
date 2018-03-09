@@ -21,19 +21,20 @@ Due to my varied background I have been exposed to all kinds of challenges and s
 
 I have:
 
-- worked as a client facing technologist (read: technical frontline sales)
-- worked as a technical team leader
+- worked as a client facing technologist
+- worked as a technical project manager coordinating output of multiple universities
 - worked in concept design
 - worked as an engineering lead
 - worked as a programmer
+- worked as a machine learning data scientist
 
 (... this is a really long list. I have even worked as a janitor, as a cleaner at the local processed meat factory (yikes, I'm so glad I'm nowadays on the path to veganism :), at a local city theatre, I have run my own renovations business etc, luckily now renovations-wise I'm only trying my hand at keeping our 100 years old wooden family house mended.)
 
 I am also a trained people manager, have sat in the leadership teams of three companies, been the chairperson of a housing co-operative, taken part in multiple social innovation events as a mentor & judge.
 
-What am I best at? Probably always the latest role I've had. Now its a startup CTO.
+What am I best at? Probably always the latest role I've had. Now its a startup CTO, so I have current experience from a wide variety of things ranging from a/b testing through content creation to designing technical infrastructures that scale to millions of users.
 
-I usually try to go in people first. I try to avoid falling too much in love with the tech, as that tends to blindsight people (no, you don't necessarily need an app for that - I sometimes find myself saying at hackathons), try to understand the problem before you choose your tools.
+In my work I usually try to go in people first. I try to avoid falling too much in love with the tech, as that tends to blindsight people (no, you don't necessarily need an app for that - I sometimes find myself saying at hackathons), try to understand the problem before you choose your tools.
 
 ## what motivates me?
 
