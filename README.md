@@ -44,3 +44,7 @@ I have been very fortunate in the last few years, having been able to dabble in 
 
 I like to learn about new things, technologies, processes on how to improve things. Currently I balance two things as my hobbies: learning and building TLUD woodgas camping stoves, and predicting soccer scores by using an LSTM neural net. Both equally fascinating, but my wife prefers the less sooty one.
 
+## links
+
+linkedin: www.linkedin.com/in/janiturunen
+fuzu: https://www.fuzu.com/profile/jani-turunen
