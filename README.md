@@ -33,5 +33,13 @@ I am also a trained people manager, have sat in the leadership teams of three co
 
 What am I best at? Probably always the latest role I've had. Now its a startup CTO.
 
-I usually try to go in people first. Technology is 
+I usually try to go in people first. I try to avoid falling too much in love with the tech, as that tends to blindsight people (no, you don't necessarily need an app for that - I sometimes find myself saying at hackathons), try to understand the problem before you choose your tools.
+
+## what motivates me?
+
+I like to make a difference. How doesn't?
+
+I have been very fortunate in the last few years, having been able to dabble in social innovation in Kosovo, doing as small stint for Unicef, then hitting the jackpot and becoming Fuzu's CTO (www.fuzu.com).
+
+I like to learn about new things, technologies, processes on how to improve things. Currently I balance two things as my hobbies: learning and building TLUD woodgas camping stoves, and predicting soccer scores by using an LSTM neural net. Both equally fascinating, but my wife prefers the less sooty one.
 
