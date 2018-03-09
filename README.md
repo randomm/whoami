@@ -26,7 +26,8 @@ I have:
 - worked in concept design
 - worked as an engineering lead
 - worked as a programmer
-... this is a long list. I have even worked as a janitor, at a local city theatre, I have run my own renovations business etc, now I'm only trying my hand at keeping our 100 years old wooden cottage mended.
+
+(... this is a long list. I have even worked as a janitor, as a cleaner at the local processed meat factory (yikes, I'm so glad I'm nowadays on the path to veganism :), at a local city theatre, I have run my own renovations business etc, now I'm only trying my hand at keeping our 100 years old wooden cottage mended.)
 
 I am also a trained people manager, have sat in the leadership team of three companies, been the chairperson of a housing co-operative, taken part in multiple social innovation events as a mentor & judge.
 
