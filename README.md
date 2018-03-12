@@ -42,11 +42,11 @@ In my work I usually try to go in people first. I try to avoid falling too much 
 
 I like to make a difference. Who doesn't?
 
-I have been very fortunate in the last few years, having been able to dabble in social innovation in Kosovo, doing as small stint for Unicef, then hitting the jackpot and becoming Fuzu's CTO (www.fuzu.com).
+I have been very fortunate in the last few years. In terms of social innovation I have been able to dabble in that in Kosovo (Science for Change project), doing as small stint for Unicef (software for Syrian refugees aid management), then hitting the jackpot and becoming Fuzu's CTO (www.fuzu.com). In terms of other, but equally interesting work, I was lucky enough be able to lead teams to build two startups in my role prior to Fuzu (Trip Republic & Vino Nostrum).
 
 I like to learn about new things, technologies, processes on how to improve things. Currently I balance two things as my hobbies: learning and building TLUD woodgas camping stoves, and predicting soccer scores by using an LSTM neural net. Both equally fascinating, but my wife prefers the less sooty one.
 
 ## links
 
-linkedin: www.linkedin.com/in/janiturunen
-fuzu: https://www.fuzu.com/profile/jani-turunen
+- linkedin: www.linkedin.com/in/janiturunen
+- fuzu: https://www.fuzu.com/profile/jani-turunen
