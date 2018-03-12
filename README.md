@@ -47,4 +47,4 @@ I like to learn about new things, technologies, processes on how to improve thin
 ## links
 
 - linkedin: www.linkedin.com/in/janiturunen
-- fuzu: https://www.fuzu.com/profile/jani-turunen
+- fuzu: www.fuzu.com/profile/jani-turunen
