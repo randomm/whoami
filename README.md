@@ -2,7 +2,7 @@
 
 I'm a guy who Santa brought a computer in 1983. I tried my hand at human sciences at university (University of London, Politics and Development Studies), but ended up working in internet, design and IT related roles past 18 years.
 
-I have a varied background. I have worked at consultancies, directly at "client", at quite a few startups and even at two universities' research organisations. I'm a design oriented technologist who tries to put his skills to use to helping people.
+I have a varied background. I have worked at consultancies, directly at "client", at quite a few startups and even at two universities' research organisations. I'm a design oriented technologist who tries to put his skills to use to helping people and organisations move their needle.
 
 I have always been doing pretty much the same thing:
 
@@ -12,7 +12,7 @@ I have always been doing pretty much the same thing:
 
 ...
 
-N. and in some lucky cases scaling the solution over the next few years
+4. and in some lucky cases scaling the solution over the next few years
 
 The last few years I have also been doing quite a bit of machine learning.
 
