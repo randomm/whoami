@@ -10,9 +10,7 @@ I have always been doing pretty much the same thing:
 2. defining potential solutions, involving design and technology
 3. leading a team to build the solution
 
-...
-
-4. and in some lucky cases scaling the solution over the next few years
+... and in some lucky cases scaling the solution to quite a many users (Fuzu currently has 400,000+ registered users, >40M daily background processes etc).
 
 The last few years I have also been doing quite a bit of machine learning.
 
