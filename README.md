@@ -1,4 +1,4 @@
-## who i am?
+## Who am I?
 
 I'm a guy who Santa brought a computer in 1983. I tried my hand at human sciences at university (University of London, Politics and Development Studies), but ended up working in internet, design and IT related roles past 18 years.
 
