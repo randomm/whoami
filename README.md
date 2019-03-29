@@ -1,18 +1,18 @@
 ## who am I?
 
-I'm a guy who Santa brought a computer in 1983. I tried my hand at human sciences at university (University of London, Politics and Development Studies), but ended up working in internet, design and IT related roles past 18 years.
+I'm a guy who Santa brought a computer in 1983. I tried my hand at human sciences at university (University of London, Politics and Development Studies), but ended up working in internet, design and IT related roles past 20 years.
 
-I have a varied background. I have worked at consultancies, directly at "client", at quite a few startups and even at two universities' research organisations. I'm a design oriented technologist who tries to put his skills to use to helping people and organisations move their needle.
+I have a varied background. I have worked at non-profits, social enterprises, consultancies, directly at "client", at quite a few startups and even at two universities' research organisations. I'm a design oriented technologist who tries to put his skills to use to helping people and organisations move their needle.
 
 I have always been doing pretty much the same thing:
 
 1. learning what the problem is
-2. defining potential solutions, involving design and technology
+2. defining potential solutions, involving data, design and technology
 3. leading a team to build the solution
 
-... and in some lucky cases scaling the solution to quite a many users (Fuzu currently has 400,000+ registered users, >40M daily background processes etc).
+... and in some lucky cases scaling the solution to quite a many users (Fuzu currently has 500,000+ registered users, >50M daily background processes etc).
 
-The last few years I have also been doing quite a bit of machine learning.
+The last five years I have also been doing quite a bit of machine learning.
 
 
 ## what can I do?
@@ -32,13 +32,11 @@ I have:
 
 I am also a trained people manager, have sat in the leadership teams of three companies, been the chairperson of a housing co-operative, taken part in multiple social innovation events as a mentor & judge.
 
-What am I best at? Probably always the latest role I've had. Now its a startup CTO, so I have current experience from a wide variety of things ranging from a/b testing through content creation to designing technical infrastructures that scale to millions of users.
-
 In my work I usually try to go in people first. I try to avoid falling too much in love with the tech, as that tends to blindsight people ("No, you don't necessarily need an app for that", I sometimes find myself saying at hackathons), try to understand the problem before you choose your tools.
 
 ## what motivates me?
 
-I like to make a difference. Who doesn't?
+I like to work with challenging problems, nowadays more from a data science angle. I like to make a difference. Who doesn't? 
 
 I have been very fortunate in the last few years. In terms of social innovation I have been able to dabble in that in Kosovo (Science for Change project), doing as small stint for Unicef (software for Syrian refugees aid management), then hitting the jackpot and becoming Fuzu's CTO (www.fuzu.com). In terms of other, but equally interesting work, I was lucky enough be able to lead teams to build two startups in my role prior to Fuzu (Trip Republic & Vino Nostrum).
 
